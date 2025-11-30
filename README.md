@@ -31,9 +31,9 @@ linux-access-troubleshooting-lab/
 │   ├── 03-permissions-error.md
 │   └── ...
 ├── screenshots/
-│   ├── invalid_shell.png
-│   ├── permission_denied.png
-│   ├── fixed_access.png
+│   ├── 01-invalid_shell/
+│   ├── 02-permission_denied/
+│   ├── 03-fixed_access/
 
 ```
 
@@ -53,4 +53,3 @@ linux-access-troubleshooting-lab/
 - Ubuntu Server 22.04 LTS
 - Kali Linux Client
 - OpenSSH server on port 2222
-```
