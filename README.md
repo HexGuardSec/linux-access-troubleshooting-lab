@@ -1,5 +1,11 @@
 # Linux Access Troubleshooting Lab
 
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Category](https://img.shields.io/badge/Category-Troubleshooting-blue)
+![SSH](https://img.shields.io/badge/SSH-Access%20Issues-red)
+![Permissions](https://img.shields.io/badge/Permissions-Root%20Cause%20Analysis-lightgrey)
+![Logs](https://img.shields.io/badge/Logs-Audit%20%7C%20journalctl-blueviolet)
+
 **Hands-on scenarios for diagnosing and fixing broken SSH access on Linux systems.**  
 This project simulates real-world issues encountered by IT administrators and support engineers when dealing with user authentication problems.
 
